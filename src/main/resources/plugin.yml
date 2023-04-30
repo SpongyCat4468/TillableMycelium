@@ -1,0 +1,5 @@
+name: TillableMycelium
+version: '${project.version}'
+main: me.spongycat.tillablemycelium.TillableMycelium
+api-version: 1.19
+load: STARTUP
